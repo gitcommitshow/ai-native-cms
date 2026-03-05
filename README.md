@@ -1,8 +1,10 @@
 # ai-native-cms
 
-## Overview : AI Native Content Management System
-
 Imagine the easiest way to publish and manage content on the go, with automated guardrails and quick human review
+
+## Project Overview : AI Native Content Management System
+
+The current CMS tools are outdated.
 
 
 ## Spec
