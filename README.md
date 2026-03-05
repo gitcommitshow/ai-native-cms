@@ -1,5 +1,7 @@
 # ai-native-cms
 
+## Overview : AI Native Content Management System
+
 Imagine the easiest way to publish and manage content on the go, with automated guardrails and quick human review
 
 
@@ -50,4 +52,4 @@ Cons
 - No-go for mobile
 - Claude fails sometimes
 - Netlify charges
-- Will take more than a min
+- Will take more than a min as the review cycle is too long
